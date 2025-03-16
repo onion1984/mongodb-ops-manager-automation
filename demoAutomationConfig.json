@@ -464,15 +464,15 @@
   "mongots": [],
   "monitoringVersions": [
     {
-      "hostname": "ip-10-1-1-13.ap-southeast-1.compute.internal",
+      "hostname": "ip-10-1-1-25.ap-southeast-1.compute.internal",
       "name": "7.2.0.488-1"
     },
     {
-      "hostname": "ip-10-1-1-38.ap-southeast-1.compute.internal",
+      "hostname": "ip-10-1-1-214.ap-southeast-1.compute.internal",
       "name": "7.2.0.488-1"
     },
     {
-      "hostname": "ip-10-1-1-23.ap-southeast-1.compute.internal",
+      "hostname": "ip-10-1-1-156.ap-southeast-1.compute.internal",
       "name": "7.2.0.488-1"
     }
   ],
@@ -508,7 +508,7 @@
       "authSchemaVersion": 5,
       "disabled": false,
       "featureCompatibilityVersion": "7.0",
-      "hostname": "ip-10-1-1-13.ap-southeast-1.compute.internal",
+      "hostname": "ip-10-1-1-25.ap-southeast-1.compute.internal",
       "logRotate": {
         "sizeThresholdMB": 1000.0,
         "timeThresholdHrs": 24
@@ -516,7 +516,7 @@
       "manualMode": false,
       "name": "demoReplicaSet_1",
       "processType": "mongod",
-      "version": "8.0.5-ent"
+      "version": "7.0.9-ent"
     },
     {
       "args2_6": {
@@ -544,7 +544,7 @@
       "authSchemaVersion": 5,
       "disabled": false,
       "featureCompatibilityVersion": "7.0",
-      "hostname": "ip-10-1-1-38.ap-southeast-1.compute.internal",
+      "hostname": "ip-10-1-1-214.ap-southeast-1.compute.internal",
       "logRotate": {
         "sizeThresholdMB": 1000.0,
         "timeThresholdHrs": 24
@@ -552,7 +552,7 @@
       "manualMode": false,
       "name": "demoReplicaSet_2",
       "processType": "mongod",
-      "version": "8.0.5-ent"
+      "version": "7.0.9-ent"
     },
     {
       "args2_6": {
@@ -580,7 +580,7 @@
       "authSchemaVersion": 5,
       "disabled": false,
       "featureCompatibilityVersion": "7.0",
-      "hostname": "ip-10-1-1-23.ap-southeast-1.compute.internal",
+      "hostname": "ip-10-1-1-156.ap-southeast-1.compute.internal",
       "logRotate": {
         "sizeThresholdMB": 1000.0,
         "timeThresholdHrs": 24
@@ -588,7 +588,7 @@
       "manualMode": false,
       "name": "demoReplicaSet_3",
       "processType": "mongod",
-      "version": "8.0.5-ent"
+      "version": "7.0.9-ent"
     }
   ],
   "replicaSets": [
